@@ -14,11 +14,11 @@ def kg2ib(kg):
     #kilograms to pounds
     return kg * 2.20462
     
-def l2ml(l):
+def ml2l(l):
     #liters to mililiters
     return l * 0.001
     
-def ml2l(ml):
+def l2ml(ml):
     #militers to liters
     return ml * 1000
     
